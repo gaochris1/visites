@@ -1,0 +1,74 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "ID": "080617880", "Lat": "16 15 00", "Long": "61 32 00", "AssFreq": 482.0, "erp": 40.0, "SiteName": "PNT A PITRE", "latDeg": 16.25, "lonDeg": -61.533333 }, "geometry": { "type": "Point", "coordinates": [ -61.533333333333331, 16.25 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "ID": "082025684", "Lat": "16 20 00", "Long": "61 02 00", "AssFreq": 490.0, "erp": 5.0, "SiteName": "BAlE MAHAli.T", "latDeg": 16.333333, "lonDeg": -61.033333 }, "geometry": { "type": "Point", "coordinates": [ -61.033333333333331, 16.333333333333332 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "ID": "093002014", "Lat": "16 42 00", "Long": "62 12 00", "AssFreq": 473.0, "erp": 17.8, "SiteName": "RICHMOND HILL", "latDeg": 16.7, "lonDeg": -62.2 }, "geometry": { "type": "Point", "coordinates": [ -62.2, 16.7 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "ID": "094038699", "Lat": "15 54 00", "Long": "61 13 00", "AssFreq": 482.0, "erp": 14.0, "SiteName": "CAPESTERRE", "latDeg": 15.9, "lonDeg": -61.216667 }, "geometry": { "type": "Point", "coordinates": [ -61.216666666666669, 15.9 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "ID": "094038700", "Lat": "17 54 00", "Long": "62 50 00", "AssFreq": 482.0, "erp": 20.0, "SiteName": "GUSTAVIA", "latDeg": 17.9, "lonDeg": -62.833333 }, "geometry": { "type": "Point", "coordinates": [ -62.833333333333336, 17.9 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "ID": "094038704", "Lat": "16 16 00", "Long": "61 48 00", "AssFreq": 490.0, "erp": 10.0, "SiteName": "DESHAIES 2", "latDeg": 16.266667, "lonDeg": -61.8 }, "geometry": { "type": "Point", "coordinates": [ -61.8, 16.266666666666666 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "ID": "094038708", "Lat": "16 03 00", "Long": "61 41 00", "AssFreq": 490.0, "erp": 12.0, "SiteName": "S CLAUDE", "latDeg": 16.05, "lonDeg": -61.683333 }, "geometry": { "type": "Point", "coordinates": [ -61.68333333333333, 16.05 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "ID": "094038716", "Lat": "16 15 00", "Long": "61 32 00", "AssFreq": 506.0, "erp": 40.8, "SiteName": "POINTE A PITRE", "latDeg": 16.25, "lonDeg": -61.533333 }, "geometry": { "type": "Point", "coordinates": [ -61.533333333333331, 16.25 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "ID": "094038723", "Lat": "16 20 00", "Long": "61 02 00", "AssFreq": 514.0, "erp": 4.8, "SiteName": "BAIE MAHAULT", "latDeg": 16.333333, "lonDeg": -61.033333 }, "geometry": { "type": "Point", "coordinates": [ -61.033333333333331, 16.333333333333332 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "ID": "094038724", "Lat": "16 16 00", "Long": "61 48 00", "AssFreq": 514.0, "erp": 10.0, "SiteName": "DESHAIES 2", "latDeg": 16.266667, "lonDeg": -61.8 }, "geometry": { "type": "Point", "coordinates": [ -61.8, 16.266666666666666 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "ID": "094038741", "Lat": "16 06 00", "Long": "61 45 00", "AssFreq": 554.0, "erp": 17.8, "SiteName": "BOUILLANTE", "latDeg": 16.1, "lonDeg": -61.75 }, "geometry": { "type": "Point", "coordinates": [ -61.75, 16.1 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "ID": "094038759", "Lat": "16 02 00", "Long": "61 39 00", "AssFreq": 594.0, "erp": 47.8, "SiteName": "BASSE TERRE", "latDeg": 16.033333, "lonDeg": -61.65 }, "geometry": { "type": "Point", "coordinates": [ -61.65, 16.033333333333335 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "ID": "094038779", "Lat": "16 20 00", "Long": "61 45 00", "AssFreq": 626.0, "erp": 18.1, "SiteName": "DESHAIES 1", "latDeg": 16.333333, "lonDeg": -61.75 }, "geometry": { "type": "Point", "coordinates": [ -61.75, 16.333333333333332 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "ID": "094038789", "Lat": "18 05 00", "Long": "63 03 00", "AssFreq": 634.0, "erp": 28.9, "SiteName": "MARIGDT", "latDeg": 18.083333, "lonDeg": -63.05 }, "geometry": { "type": "Point", "coordinates": [ -63.05, 18.083333333333332 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "ID": "094038855", "Lat": "16 11 00", "Long": "61 45 00", "AssFreq": 706.0, "erp": 31.1, "SiteName": "MORNE A LOUIS", "latDeg": 16.183333, "lonDeg": -61.75 }, "geometry": { "type": "Point", "coordinates": [ -61.75, 16.183333333333334 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "ID": "094038914", "Lat": "17 55 00", "Long": "62 51 00", "AssFreq": 770.0, "erp": 13.0, "SiteName": "GUSTAVIA 2", "latDeg": 17.916667, "lonDeg": -62.85 }, "geometry": { "type": "Point", "coordinates": [ -62.85, 17.916666666666668 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "ID": "094038933", "Lat": "17 55 00", "Long": "62 51 00", "AssFreq": 794.0, "erp": 13.0, "SiteName": "GUSTAVIA 2", "latDeg": 17.916667, "lonDeg": -62.85 }, "geometry": { "type": "Point", "coordinates": [ -62.85, 17.916666666666668 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "ID": "095019303", "Lat": "16 18 00", "Long": "61 47 00", "AssFreq": 474.0, "erp": 11.8, "SiteName": "DESHAIES 3", "latDeg": 16.3, "lonDeg": -61.783333 }, "geometry": { "type": "Point", "coordinates": [ -61.783333333333331, 16.3 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "ID": "095019304", "Lat": "17 54 00", "Long": "62 50 00", "AssFreq": 506.0, "erp": 20.0, "SiteName": "GUSTAVIA", "latDeg": 17.9, "lonDeg": -62.833333 }, "geometry": { "type": "Point", "coordinates": [ -62.833333333333336, 17.9 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "ID": "095019339", "Lat": "16 18 00", "Long": "61 47 00", "AssFreq": 498.0, "erp": 11.8, "SiteName": "DESHAIES 3", "latDeg": 16.3, "lonDeg": -61.783333 }, "geometry": { "type": "Point", "coordinates": [ -61.783333333333331, 16.3 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "ID": "095019448", "Lat": "16 02 00", "Long": "61 39 00", "AssFreq": 618.0, "erp": 47.8, "SiteName": "BASSE TERRE", "latDeg": 16.033333, "lonDeg": -61.65 }, "geometry": { "type": "Point", "coordinates": [ -61.65, 16.033333333333335 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "ID": "095019467", "Lat": "16 07 00", "Long": "61 45 00", "AssFreq": 626.0, "erp": 13.0, "SiteName": "VIEUX HABITTA NTS 2", "latDeg": 16.116667, "lonDeg": -61.75 }, "geometry": { "type": "Point", "coordinates": [ -61.75, 16.116666666666667 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "ID": "095019478", "Lat": "16 02 00", "Long": "61 39 00", "AssFreq": 642.0, "erp": 47.8, "SiteName": "BASSE TERRE", "latDeg": 16.033333, "lonDeg": -61.65 }, "geometry": { "type": "Point", "coordinates": [ -61.65, 16.033333333333335 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "ID": "095019496", "Lat": "16 07 00", "Long": "61 45 00", "AssFreq": 650.0, "erp": 13.0, "SiteName": "VIEUX HABITTA NTS 2", "latDeg": 16.116667, "lonDeg": -61.75 }, "geometry": { "type": "Point", "coordinates": [ -61.75, 16.116666666666667 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "ID": "095019506", "Lat": "18 05 00", "Long": "63 03 00", "AssFreq": 658.0, "erp": 28.9, "SiteName": "MARIGOT", "latDeg": 18.083333, "lonDeg": -63.05 }, "geometry": { "type": "Point", "coordinates": [ -63.05, 18.083333333333332 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "ID": "095019511", "Lat": "16 20 00", "Long": "61 45 00", "AssFreq": 674.0, "erp": 18.1, "SiteName": "DESHAIES 1", "latDeg": 16.333333, "lonDeg": -61.75 }, "geometry": { "type": "Point", "coordinates": [ -61.75, 16.333333333333332 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "ID": "095019542", "Lat": "16 04 00", "Long": "61 44 00", "AssFreq": 698.0, "erp": 13.0, "SiteName": "VIEUX HABITTA NTS 1", "latDeg": 16.066667, "lonDeg": -61.733333 }, "geometry": { "type": "Point", "coordinates": [ -61.733333333333334, 16.066666666666666 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "ID": "095019564", "Lat": "16 04 00", "Long": "61 44 00", "AssFreq": 722.0, "erp": 13.0, "SiteName": "VIEUX HABITTA NTS 1", "latDeg": 16.066667, "lonDeg": -61.733333 }, "geometry": { "type": "Point", "coordinates": [ -61.733333333333334, 16.066666666666666 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "ID": "095019581", "Lat": "17 54 00", "Long": "62 48 00", "AssFreq": 746.0, "erp": 13.0, "SiteName": "S BARTHELEMY 4", "latDeg": 17.9, "lonDeg": -62.8 }, "geometry": { "type": "Point", "coordinates": [ -62.8, 17.9 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "ID": "095019600", "Lat": "16 11 00", "Long": "61 45 00", "AssFreq": 770.0, "erp": 31.1, "SiteName": "MORNE A LOUIS", "latDeg": 16.183333, "lonDeg": -61.75 }, "geometry": { "type": "Point", "coordinates": [ -61.75, 16.183333333333334 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "ID": "095019622", "Lat": "17 55 00", "Long": "62 51 00", "AssFreq": 818.0, "erp": 13.0, "SiteName": "GUSTAVIA 2", "latDeg": 17.916667, "lonDeg": -62.85 }, "geometry": { "type": "Point", "coordinates": [ -62.85, 17.916666666666668 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "ID": "096023225", "Lat": "15 54 00", "Long": "61 13 00", "AssFreq": 506.0, "erp": 14.0, "SiteName": "CAPESTERRE", "latDeg": 15.9, "lonDeg": -61.216667 }, "geometry": { "type": "Point", "coordinates": [ -61.216666666666669, 15.9 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "ID": "096023228", "Lat": "16 14 00", "Long": "61 35 00", "AssFreq": 530.0, "erp": 26.7, "SiteName": "POINTE A PITRE", "latDeg": 16.233333, "lonDeg": -61.583333 }, "geometry": { "type": "Point", "coordinates": [ -61.583333333333336, 16.233333333333334 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "ID": "096023238", "Lat": "16 06 00", "Long": "61 45 00", "AssFreq": 578.0, "erp": 17.8, "SiteName": "BOUILLANTE", "latDeg": 16.1, "lonDeg": -61.75 }, "geometry": { "type": "Point", "coordinates": [ -61.75, 16.1 ] } }
+
+]
+}
